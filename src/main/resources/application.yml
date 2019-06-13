@@ -1,0 +1,7 @@
+
+spring:
+  datasource:
+    url: jdbc:mysql://cdb-rm3t3fcz.gz.tencentcdb.com:10115/InTheRoad
+    username: root
+    password: zsq123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
